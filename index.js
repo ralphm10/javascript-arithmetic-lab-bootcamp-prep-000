@@ -24,6 +24,6 @@ function dec(a, b) {
   return a -= 1  
 }
 
-function makeInt(n {
+function makeInt(n) {
   parseInt(a, 10)
 }
